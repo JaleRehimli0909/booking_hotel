@@ -18,19 +18,19 @@ This project is a modern and mobile-friendly hotel reservation system built usin
 
 Follow the steps below to run this project on your local machine:
 
-git clone [https://github.com/username/hotel-booking.git](https://github.com/JaleRehimli0909/booking_hotel.git)
+### git clone [https://github.com/username/hotel-booking.git](https://github.com/JaleRehimli0909/booking_hotel.git)
 
-### Navigate to the project folder:
+#### Navigate to the project folder:
 
-cd hotel-booking
+## cd hotel-booking
 
-### Install the required dependencies:
+#### Install the required dependencies:
 
-npm install
+## npm install
 
-### Start the project:
+#### Start the project:
 
-npm start
+## npm start
 
 After running this command, your project will start on a local server, and you can open it via http://localhost:3000.
 
