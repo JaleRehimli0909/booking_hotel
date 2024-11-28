@@ -1,12 +1,20 @@
 # Hotel Booking Project
-
-This is a functional front-end prototype showcasing a hotel reservation and booking experience.
-
 ## About the Project
+This project is a modern and mobile-friendly hotel reservation system built using HTML, CSS, and JavaScript. I developed the project using the React.js framework and utilized the TailwindCSS library for the design.
 
-The Hotel Booking project provides users with the ability to make hotel reservations through a modern and mobile-friendly interface. Users can search through hotels, select rooms, and complete booking operations.
+### Technical Requirements Met:
 
-### Installation
+#### 1-HTML, CSS, JavaScript: The project is built with these core technologies.
+
+#### 2-React.js: I used the React.js framework for a dynamic and interactive user interface.
+
+#### 3-TailwindCSS: I used TailwindCSS to achieve a sleek and modern design.
+
+#### 4-UX/UI Principles: I adhered to user-friendly navigation and simple design principles.
+
+#### 5-SEO and Speed Optimization: I focused on optimizing the project's speed and SEO compliance.
+
+## Installation
 
 Follow the steps below to run this project on your local machine:
 
